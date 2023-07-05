@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F04E-792B
+
+ Directory of C:\Users\Mansha Ansari\Desktop\JProject
+
+05-07-2023  11:00    <DIR>          .
+04-07-2023  21:09    <DIR>          ..
+05-07-2023  09:34             1,093 RandomNumberExample1.class
+04-07-2023  21:12               411 RandomNumberExample1.java
+05-07-2023  10:58                 0 temp.txt
+05-07-2023  11:00                 0 temp2.txt
+               4 File(s)          1,504 bytes
+               2 Dir(s)  174,774,534,144 bytes free
